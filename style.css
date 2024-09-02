@@ -144,10 +144,4 @@ nav{
 …	padding: 20px;
 	text-align: center;
 	margin-top: 50px;
-.container__botao:checked ~ .container__rotulo > .cabeçalho__menu-hamburguer {
-        background-image: url(“../img/Menu Aberto.svg”);
-        }
-        .container__botao:checked ~ .container__rotulo {
-            background: var(--azul-degrade);
-            }
 }
